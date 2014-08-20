@@ -15,7 +15,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Inspired by 
 * [Image](#image)
 * [Tools](#tools)
 * [IDEs and Plugins](#ides-and-plugins)
-* 
+ 
 ----
 
 ## Client Web App Frameworks
