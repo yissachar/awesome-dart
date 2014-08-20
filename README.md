@@ -62,6 +62,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Inspired by 
 * [html5lib](http://pub.dartlang.org/packages/html5lib) - A library for working with HTML documents.
 * [XML](http://pub.dartlang.org/packages/xml) - A lightweight library for parsing, traversing, querying and building XML documents.
 * [PetitParser](https://github.com/renggli/dart-petitparser) - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
+* [markdown](https://github.com/dpeek/dart-markdown) - Parse markdown into HTML on both the client and server.
 
 ## Validation
 
