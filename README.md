@@ -5,6 +5,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Inspired by 
 
 * [Client Web App Frameworks](#client-web-app-frameworks)
 * [Server Frameworks](#server-frameworks)
+* [Web Animations](#web-animation)
 * [Game Development](#game-development)
 * [Package Managers](#package-managers)
 * [Utilities](#utilities)
@@ -29,6 +30,10 @@ A curated list of awesome Dart frameworks, libraries, and software. Inspired by 
 * [Start](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
 * [Express](https://github.com/dartist/express) - A simple, thin expressjs inspired layer around Dart's primitive HttpServer APIs.
 * [Shelf](https://pub.dartlang.org/packages/shelf) - Shelf makes it easy to create and compose web servers and parts of web servers.
+
+## Web Animations
+
+* [Universal Tween Engine](https://github.com/xaguzman/tween-engine-dart) - This is a port of the original java Universal Tween Engine created by Aurelien Ribbon.
 
 ## Game Development
 
