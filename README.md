@@ -30,6 +30,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Inspired by 
 * [Start](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
 * [Express](https://github.com/dartist/express) - A simple, thin expressjs inspired layer around Dart's primitive HttpServer APIs.
 * [Shelf](https://pub.dartlang.org/packages/shelf) - Shelf makes it easy to create and compose web servers and parts of web servers.
+* [Force](https://github.com/ForceUniverse/dart-force) - A real time web framework, embracing websockets, making communication even better
 
 ## Game Development
 
