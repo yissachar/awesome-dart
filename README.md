@@ -6,6 +6,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Inspired by 
 * [Client Web App Frameworks](#client-web-app-frameworks)
 * [Server Frameworks](#server-frameworks)
 * [Game Development](#game-development)
+* [Database](#databse)
 * [Package Managers](#package-managers)
 * [Utilities](#utilities)
 * [Dependency Injection](#dependency-injection)
@@ -29,17 +30,24 @@ A curated list of awesome Dart frameworks, libraries, and software. Inspired by 
 * [Start](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
 * [Express](https://github.com/dartist/express) - A simple, thin expressjs inspired layer around Dart's primitive HttpServer APIs.
 * [Shelf](https://pub.dartlang.org/packages/shelf) - Shelf makes it easy to create and compose web servers and parts of web servers.
+* [Force](https://github.com/ForceUniverse/dart-force) - A real time web framework, embracing websockets, making communication even better
 
 ## Game Development
 
 * [StageXL](http://www.stagexl.org/) - StageXL offers an easy to use and complete API (based on the Flash API) for impressive 2D content like games and other rich applications.
 * [Spectre](https://github.com/johnmccutchan/spectre) - Spectre is a modern graphics API aimed at developers creating games and other interactive 3D applications.
 * [DartRocket](https://github.com/StrykerKKD/dartrocket) - DartRocket is an easy to use HTML5 game engine for making 2D HTML5 games.
-* [Pixi Dart](https://github.com/FedeOmoto/pixi) - A port of the pixi.js rendering engine to Dart (from the original author of pixi.js).
+* [Pixi Dart](https://github.com/FedeOmoto/pixi) - A port of the pixi.js rendering engine to Dart.
 * [Play-Pixie](https://github.com/playif/play_pixi) - Play-Pixie is a complete port of the pixi.js 2D rendering engine
 * [Play-Phaser](https://github.com/playif/play_phaser) - Play-Phaser is a complete port of the phaser.js 2D animation engine
 * [pixi.dart](https://github.com/emergent-design/pixi.dart) - A Dart port of the pixi.js 2D library
 
+## Database
+
+* [SQLJockey](https://github.com/jamesots/sqljocky) - MySQL connector.
+* [PostgreSQL](https://github.com/xxgreg/postgresql) - PostgreSQL database driver
+* [Dartabase](https://github.com/HannesRammer/Dartabase) - Rails-like migration and model tool for MySQL and PostgreSQL databases
+ 
 ## Package Managers
 
 * [Pub](https://pub.dartlang.org/) - Pub is used to manage packages.
@@ -57,6 +65,8 @@ A curated list of awesome Dart frameworks, libraries, and software. Inspired by 
 * [html5lib](http://pub.dartlang.org/packages/html5lib) - A library for working with HTML documents.
 * [XML](http://pub.dartlang.org/packages/xml) - A lightweight library for parsing, traversing, querying and building XML documents.
 * [PetitParser](https://github.com/renggli/dart-petitparser) - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
+* [markdown](https://github.com/dpeek/dart-markdown) - Parse markdown into HTML on both the client and server.
+* [YAML](https://pub.dartlang.org/packages/yaml) - A parser for YAML.
 
 ## Validation
 
