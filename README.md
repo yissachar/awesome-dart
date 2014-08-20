@@ -35,6 +35,11 @@ A curated list of awesome Dart frameworks, libraries, and software. Inspired by 
 * [StageXL](http://www.stagexl.org/) - StageXL offers an easy to use and complete API (based on the Flash API) for impressive 2D content like games and other rich applications.
 * [Spectre](https://github.com/johnmccutchan/spectre) - Spectre is a modern graphics API aimed at developers creating games and other interactive 3D applications.
 * [DartRocket](https://github.com/StrykerKKD/dartrocket) - DartRocket is an easy to use HTML5 game engine for making 2D HTML5 games.
+* [Pixi Dart](https://github.com/FedeOmoto/pixi) - A port of the pixi.js rendering engine to Dart (from the original author of pixi.js).
+* [Play-Pixie](https://github.com/playif/play_pixi) - Play-Pixie is a complete port of the pixi.js 2D rendering engine
+* [Play-Phaser](https://github.com/playif/play_phaser) - Play-Phaser is a complete port of the phaser.js 2D animation engine
+* [pixi.dart](https://github.com/emergent-design/pixi.dart) - A port of the pixi.js 2D library
+
 
 ## Package Managers
 
