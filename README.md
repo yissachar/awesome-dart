@@ -5,7 +5,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Inspired by 
 
 * [Client Web App Frameworks](#client-web-app-frameworks)
 * [Server Frameworks](#server-frameworks)
-* [Web Animations](#web-animation)
+* [Web Animations](#web-animations)
 * [Game Development](#game-development)
 * [Database](#databse)
 * [Package Managers](#package-managers)
