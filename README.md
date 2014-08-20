@@ -31,6 +31,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Inspired by 
 * [Express](https://github.com/dartist/express) - A simple, thin expressjs inspired layer around Dart's primitive HttpServer APIs.
 * [Shelf](https://pub.dartlang.org/packages/shelf) - Shelf makes it easy to create and compose web servers and parts of web servers.
 * [Force](https://github.com/ForceUniverse/dart-force) - A real time web framework, embracing websockets, making communication even better
+* [Vane](https://github.com/dartvoid/vane) - Framework with built-in server runtime environment and middleware system
 
 ## Game Development
 
