@@ -34,6 +34,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Inspired by 
 
 * [StageXL](http://www.stagexl.org/) - StageXL offers an easy to use and complete API (based on the Flash API) for impressive 2D content like games and other rich applications.
 * [Spectre](https://github.com/johnmccutchan/spectre) - Spectre is a modern graphics API aimed at developers creating games and other interactive 3D applications.
+* [DartRocket](https://github.com/StrykerKKD/dartrocket) - DartRocket is an easy to use HTML5 game engine for making 2D HTML5 games.
 
 ## Package Managers
 
