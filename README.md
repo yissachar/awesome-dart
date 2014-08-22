@@ -23,7 +23,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Inspired by 
 
 ## Client Web App Frameworks
 
-* [Angular](https://angulardart.org/) - AngularDart is a framework for building client web-apps.
+* [Angular](https://angulardart.org/) - Angular is a framework for building client web-apps.
 * [Polymer](https://www.dartlang.org/polymer/) - Use polymer to build structured, encapsulated, client-side web apps with web components.
 
 ## Server Frameworks
@@ -40,12 +40,12 @@ A curated list of awesome Dart frameworks, libraries, and software. Inspired by 
 * [StageXL](http://www.stagexl.org/) - StageXL offers an easy to use and complete API (based on the Flash API) for impressive 2D content like games and other rich applications.
 * [Spectre](https://github.com/johnmccutchan/spectre) - Spectre is a modern graphics API aimed at developers creating games and other interactive 3D applications.
 * [DartRocket](https://github.com/StrykerKKD/dartrocket) - DartRocket is an easy to use HTML5 game engine for making 2D HTML5 games.
-* [Pixi Dart](https://github.com/FedeOmoto/pixi) - A port of the pixi.js rendering engine to Dart.
+* [Pixi Dart](https://github.com/FedeOmoto/pixi) - A port of the pixi.js rendering engine.
 
 ## Animation
 
 * [Universal Tween Engine](https://github.com/xaguzman/tween-engine-dart) - A port of the original java Universal Tween Engine created by Aurelien Ribbon.
-* [Spine Dart](https://github.com/FedeOmoto/spine) - A Dart implementation of the Esoteric Software Spine runtime.
+* [Spine Dart](https://github.com/FedeOmoto/spine) - An implementation of the Esoteric Software Spine runtime.
 
 ## Template
 
@@ -64,7 +64,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Inspired by 
 
 ## Utilities
 
-* [Quiver](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many Dart libraries easier and more convenient, or adds additional functionality.
+* [Quiver](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
 
 ## Dependency Injection
 
@@ -98,7 +98,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Inspired by 
 ## IDEs and Plugins
 
 * [Dart Editor](https://www.dartlang.org/tools/editor/) - An open-source tool for editing, debugging, and running Dart applications. 
-* [IntelliJ Plugin](https://www.dartlang.org/tools/webstorm/) - Dart Plugin from JetBrains for WebStorm, IntelliJ IDEA, PhpStorm, PyCharm, and RubyMine.
+* [IntelliJ Plugin](https://www.dartlang.org/tools/webstorm/) - Dart plugin from JetBrains for WebStorm, IntelliJ IDEA, PhpStorm, PyCharm, and RubyMine.
 * [Sublime Text Package](https://github.com/dart-lang/dart-sublime-bundle) - Sublime Text 3 Dart Package
 * [Eclipse Plugin](https://www.dartlang.org/tools/eclipse-plugin/) - Dart plugin for Eclipse.
 * [Emacs Plugin](https://github.com/nex3/dart-mode) - An Emacs mode for the Dart language
