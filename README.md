@@ -7,6 +7,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Inspired by 
 * [Server Frameworks](#server-frameworks)
 * [Game Development](#game-development)
 * [Animation](#animation)
+* [Template](#template)
 * [Database](#database)
 * [Package Managers](#package-managers)
 * [Utilities](#utilities)
@@ -45,6 +46,11 @@ A curated list of awesome Dart frameworks, libraries, and software. Inspired by 
 
 * [Universal Tween Engine](https://github.com/xaguzman/tween-engine-dart) - A port of the original java Universal Tween Engine created by Aurelien Ribbon.
 * [Spine Dart](https://github.com/FedeOmoto/spine) - A Dart implementation of the Esoteric Software Spine runtime.
+
+## Template
+
+* [mustache4dart](https://github.com/valotas/mustache4dart) - A simple implementation of Mustache.
+* [jaded](https://github.com/dartist/jaded) - Port of the excellent Jade view engine.
 
 ## Database
 
