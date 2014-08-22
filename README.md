@@ -6,6 +6,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Inspired by 
 * [Client Web App Frameworks](#client-web-app-frameworks)
 * [Server Frameworks](#server-frameworks)
 * [Game Development](#game-development)
+* [Animation](#animation)
 * [Database](#database)
 * [Package Managers](#package-managers)
 * [Utilities](#utilities)
@@ -39,6 +40,11 @@ A curated list of awesome Dart frameworks, libraries, and software. Inspired by 
 * [Spectre](https://github.com/johnmccutchan/spectre) - Spectre is a modern graphics API aimed at developers creating games and other interactive 3D applications.
 * [DartRocket](https://github.com/StrykerKKD/dartrocket) - DartRocket is an easy to use HTML5 game engine for making 2D HTML5 games.
 * [Pixi Dart](https://github.com/FedeOmoto/pixi) - A port of the pixi.js rendering engine to Dart.
+
+## Animation
+
+* [Universal Tween Engine](https://github.com/xaguzman/tween-engine-dart) - A port of the original java Universal Tween Engine created by Aurelien Ribbon.
+* [Spine Dart](https://github.com/FedeOmoto/spine) - A Dart implementation of the Esoteric Software Spine runtime.
 
 ## Database
 
