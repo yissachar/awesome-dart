@@ -1,7 +1,7 @@
 Awesome Dart
 ============
 
-A curated list of awesome Dart frameworks, libraries, and software. Inspired by the [awesome](https://github.com/sindresorhus/awesome) lists.
+A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) lists.
 
 * [Client Web App Frameworks](#client-web-app-frameworks)
 * [Server Frameworks](#server-frameworks)
