@@ -9,6 +9,7 @@ To be added to the list, software should meet the following criteria:
 - Performs a useful function
 - Used by the community
 - Well documented
+- Work with the latest SDK
 
 If an item on the list no longer meets the above criteria, open an issue to have it be removed.
 
