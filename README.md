@@ -18,6 +18,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Items on the
 * [Image](#image)
 * [Tools](#tools)
 * [IDEs and Plugins](#ides-and-plugins)
+* [Everything Else](#everything-else)
  
 ----
 
@@ -103,3 +104,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Items on the
 * [Eclipse Plugin](https://www.dartlang.org/tools/eclipse-plugin/) - Dart plugin for Eclipse.
 * [Emacs Plugin](https://github.com/nex3/dart-mode) - An Emacs mode for the Dart language
 * [Vim Plugin](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim
+ 
+## Everything Else
+
+There are lots of awesome libraries being added to [Pub](https://pub.dartlang.org/) all the time. If you can't find a library on this list that meets your needs, go ahead and search for it on Pub. And if you end up finding an awesome library, we would love a pull request with the info so that everyone else can discover it as well. Just make sure to read the [contributing guidlines](https://github.com/yissachar/awesome-dart/blob/master/CONTRIBUTING.md) first.
