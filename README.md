@@ -95,7 +95,8 @@ A curated list of awesome Dart frameworks, libraries, and software. Items on the
 ## Tools
 
 * [Observatory](https://www.dartlang.org/tools/observatory/) - Observatory is a tool for profiling and debugging your Dart applications.
-* [dart2js](https://www.dartlang.org/tools/dart2js/) - dart2js compiles Dart code to JavaScript
+* [dart2js](https://www.dartlang.org/tools/dart2js/) - compiles Dart code to JavaScript
+* [js2dart](https://github.com/vojtajina/js2dart) - compiles Javascript code to Dart
 
 ## IDEs and Plugins
 
