@@ -68,6 +68,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Items on the
 ## Utilities
 
 * [Quiver](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
+* [Stagehand](https://github.com/google/stagehand) - A Dart project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
 
 ## Dependency Injection
 
