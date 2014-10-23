@@ -68,6 +68,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Items on the
 ## Utilities
 
 * [Quiver](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
+* [Route](https://github.com/angular/route.dart) - A client routing library.
 
 ## Dependency Injection
 
