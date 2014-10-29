@@ -44,6 +44,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Items on the
 * [Spectre](https://github.com/johnmccutchan/spectre) - Spectre is a modern graphics API aimed at developers creating games and other interactive 3D applications.
 * [DartRocket](https://github.com/StrykerKKD/dartrocket) - DartRocket is an easy to use HTML5 game engine for making 2D HTML5 games.
 * [Pixi Dart](https://github.com/FedeOmoto/pixi) - A port of the pixi.js rendering engine.
+* [Ranger](https://github.com/wdevore/Ranger-Dart) - A game engine centered around HTML5 Canvas and a scene graph.
 
 ## Animation
 
