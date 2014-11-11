@@ -37,6 +37,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Items on the
     * There are many packages written for Shelf. By convention they start with [shelf_](https://pub.dartlang.org/search?q=shelf_) 
 * [Force](https://github.com/ForceUniverse/dart-force) - A real time web framework, embracing websockets, making communication even better
 * [Vane](https://github.com/dartvoid/vane) - Framework with built-in server runtime environment and middleware system
+* [Rikulo Stream](https://github.com/rikulo/stream) - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources
 
 ## Game Development
 
