@@ -89,6 +89,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Items on the
 ## Validation
 
 * [Constrain](http://pub.dartlang.org/packages/constrain) - Provides a constraint based Validation library inspired by Java Bean Validation but leveraging the superior language capabilities of Dart.
+* [validator.dart](https://github.com/karan/validator.dart) - String validation and sanitization for Dart.
 
 ## ORM
 
