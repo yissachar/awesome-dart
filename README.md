@@ -102,8 +102,9 @@ A curated list of awesome Dart frameworks, libraries, and software. Items on the
 
 ## Testing
 
-* [unittest](https://pub.dartlang.org/packages/unittest) - A library for writing dart unit tests.
 * [Guinness](https://github.com/vsavkin/guinness) - A port of the Jasmine library.
+* [test](https://pub.dartlang.org/packages/test) - Provides a standard way of writing and running tests in Dart.
+* [unittest](https://pub.dartlang.org/packages/unittest) - A library for writing dart unit tests.
 
 ## Tools
 
