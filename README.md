@@ -3,6 +3,14 @@ Awesome Dart
 
 A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) lists.
 
+### Contributing
+
+Please take a quick look at the [contribution guidelines](https://github.com/yissachar/awesome-dart/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/yissachar/awesome-dart/graphs/contributors); you rock!
+
+#### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
+
+### Contents
+
 * [Client Web App Frameworks](#client-web-app-frameworks)
 * [Server Frameworks](#server-frameworks)
 * [Game Development](#game-development)
@@ -30,7 +38,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Items on the
 
 ## Server Frameworks
 
-* [Redstone](https://github.com/luizmineo/redstone.dart) - A metadata driven microframework
+* [Redstone](https://github.com/redstone-dart/redstone) - Redstone is a server-side, metadata driven micro-framework for Dart.
 * [Start](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
 * [Express](https://github.com/dartist/express) - A simple, thin expressjs inspired layer around Dart's primitive HttpServer APIs.
 * [Shelf](https://pub.dartlang.org/packages/shelf) - Shelf makes it easy to create and compose web servers and parts of web servers.
@@ -43,7 +51,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Items on the
 
 * [StageXL](http://www.stagexl.org/) - StageXL offers an easy to use and complete API (based on the Flash API) for impressive 2D content like games and other rich applications.
 * [Spectre](https://github.com/johnmccutchan/spectre) - Spectre is a modern graphics API aimed at developers creating games and other interactive 3D applications.
-* [DartRocket](https://github.com/StrykerKKD/dartrocket) - DartRocket is an easy to use HTML5 game engine for making 2D HTML5 games.
+* [DartRocket](https://github.com/StrykerKKD/dartrocket) - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine.
 * [Pixi Dart](https://github.com/FedeOmoto/pixi) - A port of the pixi.js rendering engine.
 * [Ranger](https://github.com/wdevore/Ranger-Dart) - A game engine centered around HTML5 Canvas and a scene graph.
 * [VilTAGE](https://github.com/ViliX64/VilTAGE) - Provides an easy way of making Dart ASCII based games.
@@ -62,7 +70,8 @@ A curated list of awesome Dart frameworks, libraries, and software. Items on the
 
 * [SQLJockey](https://github.com/jamesots/sqljocky) - MySQL connector.
 * [PostgreSQL](https://github.com/xxgreg/postgresql) - PostgreSQL database driver
-* [Dartabase](https://github.com/HannesRammer/Dartabase) - Rails-like migration and model tool for MySQL and PostgreSQL databases
+* [dartabase_model](https://pub.dartlang.org/packages/dartabase_model) - Serverside Database Object Models for simple data manipulation using MySQL/PGSQL without having to write SQL
+* [dartabase_migration](https://pub.dartlang.org/packages/dartabase_migration) - Serverside Database migration for simple version controlled database structure manipulation using MySQL/PGSQL without having to write SQL
 
 ## Package Managers
 
@@ -71,7 +80,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Items on the
 ## Utilities
 
 * [Quiver](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
-* [Route](https://github.com/angular/route.dart) - A client routing library.
+* [route_hierarchical](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps.
 * [Archive](https://pub.dartlang.org/packages/archive) - A library to encode and decode various archive and compression formats.
 * [Frappe](https://pub.dartlang.org/packages/frappe) - A functional reactive programming library for Dart. Frappé extends the functionality of Dart's streams, and introduces new concepts like properties/signals.
 
@@ -81,10 +90,11 @@ A curated list of awesome Dart frameworks, libraries, and software. Items on the
 
 ## Parsers
 
-* [html5lib](http://pub.dartlang.org/packages/html5lib) - A library for working with HTML documents.
-* [XML](http://pub.dartlang.org/packages/xml) - A lightweight library for parsing, traversing, querying and building XML documents.
-* [PetitParser](https://github.com/renggli/dart-petitparser) - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
+* [html](https://pub.dartlang.org/packages/html) - A library for working with HTML documents. Previously known as html5lib.
 * [markdown](https://github.com/dpeek/dart-markdown) - Parse markdown into HTML on both the client and server.
+* [PetitParser](https://github.com/renggli/dart-petitparser) - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
+* [XML](http://pub.dartlang.org/packages/xml) - A lightweight library for parsing, traversing, querying and building XML documents.
+* [xmlstream](http://pub.dartlang.org/packages/xml) - A streaming event-based XML Parser.
 * [YAML](https://pub.dartlang.org/packages/yaml) - A parser for YAML.
 
 ## Validation
@@ -98,7 +108,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Items on the
 
 ## Image
 
-* [image](https://github.com/brendan-duncan/image) - Library for decoding/encoding image formats, and image processing.
+* [image](https://github.com/brendan-duncan/image) - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR.
 
 ## Testing
 
