@@ -129,6 +129,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Eclipse Plugin](https://www.dartlang.org/tools/eclipse-plugin/) - Dart plugin for Eclipse.
 * [Emacs Plugin](https://github.com/nex3/dart-mode) - An Emacs mode for the Dart language
 * [Vim Plugin](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim
+* [Atom Plugin](https://atom.io/packages/atom-dart) - Dart support for Atom.
 
 ## Everything Else
 
