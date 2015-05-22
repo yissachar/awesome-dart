@@ -33,6 +33,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [Angular](https://angulardart.org/) - Angular is a framework for building client web-apps.
 * [Polymer](https://www.dartlang.org/polymer/) - Use polymer to build structured, encapsulated, client-side web apps with web components.
+* [uix](https://github.com/localvoid/uix) - Library to build Web User Interfaces in Dart inspired by React.
 
 ## Server Frameworks
 
