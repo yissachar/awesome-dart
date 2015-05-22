@@ -24,7 +24,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Image](#image)
 * [Testing](#testing)
 * [Tools](#tools)
-* [IDEs and Plugins](#ides-and-plugins)
+* [IDEs, Editors, and Plugins](#ides-and-plugins)
 * [Everything Else](#everything-else)
 
 ----
@@ -120,7 +120,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [js2dart](https://github.com/vojtajina/js2dart) - compiles Javascript code to Dart
 * [Stagehand](https://github.com/google/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
 
-## IDEs and Plugins
+## IDEs, Editors, and Plugins
 
 * [Dart Editor](https://www.dartlang.org/tools/editor/) - An open-source tool for editing, debugging, and running Dart applications.
 * [IntelliJ Plugin](https://www.dartlang.org/tools/webstorm/) - Dart plugin from JetBrains for WebStorm, IntelliJ IDEA, PhpStorm, PyCharm, and RubyMine.
@@ -129,6 +129,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Emacs Plugin](https://github.com/nex3/dart-mode) - An Emacs mode for the Dart language
 * [Vim Plugin](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim
 * [Atom Plugin](https://atom.io/packages/atom-dart) - Dart support for Atom.
+* [DartPad](https://dartpad.dartlang.org/) - Online lightweight editor.
 
 ## Everything Else
 
