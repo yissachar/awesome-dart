@@ -25,6 +25,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Testing](#testing)
 * [Tools](#tools)
 * [IDEs, Editors, and Plugins](#ides-and-plugins)
+* [Tutorials](#tutorials)
 * [Everything Else](#everything-else)
 
 ----
@@ -119,6 +120,11 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [dart2js](https://www.dartlang.org/tools/dart2js/) - compiles Dart code to JavaScript
 * [js2dart](https://github.com/vojtajina/js2dart) - compiles Javascript code to Dart
 * [Stagehand](https://github.com/google/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
+
+## Tutorials
+
+* [Hello Dart](http://code.makery.ch/library/hello-dart/) - A playful introduction to Dart.
+* [Darrrt](https://www.dartlang.org/codelabs/darrrt/) - Web app code lab.
 
 ## IDEs, Editors, and Plugins
 
