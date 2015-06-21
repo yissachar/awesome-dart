@@ -53,7 +53,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [DartRocket](https://github.com/StrykerKKD/dartrocket) - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine.
 * [Pixi Dart](https://github.com/FedeOmoto/pixi) - A port of the pixi.js rendering engine.
 * [Ranger](https://github.com/wdevore/Ranger-Dart) - A game engine centered around HTML5 Canvas and a scene graph.
-* [VilTAGE](https://github.com/ViliX64/VilTAGE) - Provides an easy way of making Dart ASCII based games.
 
 ## Animation
 
