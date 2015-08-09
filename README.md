@@ -108,6 +108,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [image](https://github.com/brendan-duncan/image) - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR.
 
+## Algorithms
+
+* [cassowary](https://github.com/domokit/cassowary) - Implements a subset of the functionality described in the Cassowary paper.  Accepts constraints and updates member variables in an attempt to satisfy the same.
+
 ## Testing
 
 * [Guinness](https://github.com/vsavkin/guinness) - A port of the Jasmine library.
