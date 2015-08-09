@@ -22,6 +22,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Validation](#validation)
 * [ORM](#orm)
 * [Image](#image)
+* [Algorithms](#algorithms)
 * [Testing](#testing)
 * [Tools](#tools)
 * [IDEs, Editors, and Plugins](#ides-and-plugins)
