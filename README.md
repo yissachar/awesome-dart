@@ -78,6 +78,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Utilities
 
+* [Flutter](https://github.com/flutter/engine) - Flutter is a new way to build high-performance, cross-platform mobile apps. It allows you to write applications for Android and iOS.
 * [Quiver](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
 * [route_hierarchical](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps.
 * [Archive](https://pub.dartlang.org/packages/archive) - A library to encode and decode various archive and compression formats.
