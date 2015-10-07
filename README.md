@@ -136,7 +136,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## IDEs, Editors, and Plugins
 
-* [Dart Editor](https://www.dartlang.org/tools/editor/) - An open-source tool for editing, debugging, and running Dart applications.
 * [IntelliJ Plugin](https://www.dartlang.org/tools/webstorm/) - Dart plugin from JetBrains for WebStorm, IntelliJ IDEA, PhpStorm, PyCharm, and RubyMine.
 * [Sublime Text Package](https://github.com/dart-lang/dart-sublime-bundle) - Sublime Text 3 Dart Package
 * [Eclipse Plugin](https://www.dartlang.org/tools/eclipse-plugin/) - Dart plugin for Eclipse.
