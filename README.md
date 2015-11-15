@@ -46,7 +46,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Shelf](https://pub.dartlang.org/packages/shelf) - Shelf makes it easy to create and compose web servers and parts of web servers.
     * There are many packages written for Shelf. By convention they start with [shelf_](https://pub.dartlang.org/search?q=shelf_)
 * [Force](https://github.com/ForceUniverse/dart-force) - A real time web framework, embracing websockets, making communication even better
-* [Vane](https://github.com/dartvoid/vane) - Framework with built-in server runtime environment and middleware system
+* [Vane](https://github.com/Scorpiion/Vane) - Framework with built-in server runtime environment and middleware system
 * [Rikulo Stream](https://github.com/rikulo/stream) - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources
 
 ## Game Development
@@ -69,7 +69,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Database
 
 * [SQLJockey](https://github.com/jamesots/sqljocky) - MySQL connector.
-* [PostgreSQL](https://github.com/xxgreg/postgresql) - PostgreSQL database driver
+* [PostgreSQL](https://github.com/xxgreg/dart_postgresql) - PostgreSQL database driver
 * [dartabase_model](https://pub.dartlang.org/packages/dartabase_model) - Serverside Database Object Models for simple data manipulation using MySQL/PGSQL without having to write SQL
 * [dartabase_migration](https://pub.dartlang.org/packages/dartabase_migration) - Serverside Database migration for simple version controlled database structure manipulation using MySQL/PGSQL without having to write SQL
 
@@ -92,15 +92,15 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Parsers
 
 * [html](https://pub.dartlang.org/packages/html) - A library for working with HTML documents. Previously known as html5lib.
-* [markdown](https://github.com/dpeek/dart-markdown) - Parse markdown into HTML on both the client and server.
-* [PetitParser](https://github.com/renggli/dart-petitparser) - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
-* [XML](http://pub.dartlang.org/packages/xml) - A lightweight library for parsing, traversing, querying and building XML documents.
-* [xmlstream](http://pub.dartlang.org/packages/xml) - A streaming event-based XML Parser.
+* [markdown](https://github.com/dart-lang/markdown) - Parse markdown into HTML on both the client and server.
+* [PetitParser](https://github.com/petitparser/dart-petitparser) - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
+* [XML](https://pub.dartlang.org/packages/xml) - A lightweight library for parsing, traversing, querying and building XML documents.
+* [xmlstream](https://pub.dartlang.org/packages/xml) - A streaming event-based XML Parser.
 * [YAML](https://pub.dartlang.org/packages/yaml) - A parser for YAML.
 
 ## Validation
 
-* [Constrain](http://pub.dartlang.org/packages/constrain) - Provides a constraint based Validation library inspired by Java Bean Validation but leveraging the superior language capabilities of Dart.
+* [Constrain](https://pub.dartlang.org/packages/constrain) - Provides a constraint based Validation library inspired by Java Bean Validation but leveraging the superior language capabilities of Dart.
 * [validator.dart](https://github.com/karan/validator.dart) - String validation and sanitization for Dart.
 
 ## ORM
@@ -138,7 +138,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## IDEs, Editors, and Plugins
 
 * [IntelliJ Plugin](https://www.dartlang.org/tools/webstorm/) - Dart plugin from JetBrains for WebStorm, IntelliJ IDEA, PhpStorm, PyCharm, and RubyMine.
-* [Sublime Text Package](https://github.com/dart-lang/dart-sublime-bundle) - Sublime Text 3 Dart Package
+* [Sublime Text Package](https://github.com/guillermooo/dart-sublime-bundle) - Sublime Text 3 Dart Package
 * [Eclipse Plugin](https://www.dartlang.org/tools/eclipse-plugin/) - Dart plugin for Eclipse.
 * [Emacs Plugin](https://github.com/nex3/dart-mode) - An Emacs mode for the Dart language
 * [Vim Plugin](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim
