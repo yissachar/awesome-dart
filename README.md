@@ -140,7 +140,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [IntelliJ Plugin](https://www.dartlang.org/tools/webstorm/) - Dart plugin from JetBrains for WebStorm, IntelliJ IDEA, PhpStorm, PyCharm, and RubyMine.
 * [Sublime Text Package](https://github.com/guillermooo/dart-sublime-bundle) - Sublime Text 3 Dart Package
-* [Eclipse Plugin](https://www.dartlang.org/tools/eclipse-plugin/) - Dart plugin for Eclipse.
 * [Emacs Plugin](https://github.com/nex3/dart-mode) - An Emacs mode for the Dart language
 * [Vim Plugin](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim
 * [Atom Plugin](https://atom.io/packages/atom-dart) - Dart support for Atom.
