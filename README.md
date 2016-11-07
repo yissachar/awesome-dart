@@ -147,6 +147,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Vim Plugin](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim
 * [Atom Plugin](https://atom.io/packages/atom-dart) - Dart support for Atom.
 * [DartPad](https://dartpad.dartlang.org/) - Online lightweight editor.
+* [Dart Code](https://marketplace.visualstudio.com/items?itemName=DanTup.dart-code) - Dart support for Visual Studio Code.
 
 ## Everything Else
 
