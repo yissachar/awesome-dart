@@ -34,8 +34,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Client Web App Frameworks
 
-* [Angular](https://angulardart.org/) - Angular is a framework for building client web-apps.
-* [Angular2](https://angular.io/) - Angular is a development platform for building mobile and desktop web applications.
+* [AngularDart](https://angulardart.org/) - AngularDartis a development platform for building mobile and desktop web applications
+* [Flutter](https://flutter.io/) - Flutter is a development platform for building mobile applications.
 * [Polymer](https://www.dartlang.org/polymer/) - Use polymer to build structured, encapsulated, client-side web apps with web components.
 * [uix](https://github.com/localvoid/uix) - Library to build Web User Interfaces in Dart inspired by React.
 * [MDL/Dart](http://www.material-design-lite.pub/) - Material Design Lite for Dart is a framework of components for web developers based on Google's Material Design philosophy.
