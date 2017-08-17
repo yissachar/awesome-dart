@@ -27,6 +27,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Tools](#tools)
 * [IDEs, Editors, and Plugins](#ides-editors-and-plugins)
 * [Tutorials](#tutorials)
+* [Community](#community)
 * [Everything Else](#everything-else)
 
 ----
@@ -140,6 +141,13 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [Hello Dart](http://code.makery.ch/library/hello-dart/) - A playful introduction to Dart.
 * [Darrrt](https://www.dartlang.org/codelabs/darrrt/) - Web app code lab.
+
+## Community
+
+* [Dartlang SubReddit](https://www.reddit.com/r/dartlang/)
+* [Gitter Chat Channel](https://gitter.im/dart-lang/home)
+* [Google Group](https://groups.google.com/a/dartlang.org/d/forum/misc)
+* [Stack Overflow](http://stackoverflow.com/tags/dart)
 
 ## IDEs, Editors, and Plugins
 
