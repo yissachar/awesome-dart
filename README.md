@@ -144,7 +144,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Hello Dart](http://code.makery.ch/library/hello-dart/) - A playful introduction to Dart.
 * [Darrrt](https://www.dartlang.org/codelabs/darrrt/) - Web app code lab.
 * [Getting Started with Dart & React](https://www.leejamesrobinson.com/blog/getting-started-with-dart-and-react/)
-* [Tutorial: Tour of Heroes](https://webdev.dartlang.org/angular/tutorial) - An app which covers the core fundamentals of AngularDart. 
+* [Tour of Heroes](https://webdev.dartlang.org/angular/tutorial) - An app which covers the core fundamentals of AngularDart. 
 
 ## Community
 
