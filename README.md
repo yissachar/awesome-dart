@@ -152,6 +152,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Gitter Chat Channel](https://gitter.im/dart-lang/home)
 * [Google Group](https://groups.google.com/a/dartlang.org/d/forum/misc)
 * [Stack Overflow](http://stackoverflow.com/tags/dart)
+* [Facebook Group (pt-BR)](https://www.facebook.com/groups/dartlangbr)
 
 ## IDEs, Editors, and Plugins
 
