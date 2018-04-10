@@ -89,6 +89,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Utilities
 
 * [Archive](https://pub.dartlang.org/packages/archive) - A library to encode and decode various archive and compression formats.
+* [built_collection](https://github.com/google/built_collection.dart) - Immutable collections via the builder pattern. 
 * [built_value](https://github.com/google/built_value.dart) - Immutable value types, enum classes, and serialization.
 * [Frappe](https://pub.dartlang.org/packages/frappe) - A functional reactive programming library for Dart. Frappé extends the functionality of Dart's streams, and introduces new concepts like properties/signals.
 * [Quiver](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
