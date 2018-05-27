@@ -145,6 +145,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Darrrt](https://www.dartlang.org/codelabs/darrrt/) - Web app code lab.
 * [Getting Started with Dart & React](https://www.leejamesrobinson.com/blog/getting-started-with-dart-and-react/)
 * [Tour of Heroes](https://webdev.dartlang.org/angular/tutorial) - An app which covers the core fundamentals of AngularDart. 
+* [Programming Community Curated Resources For Learning Dart](https://hackr.io/tutorials/learn-dart)
 
 ## Community
 
