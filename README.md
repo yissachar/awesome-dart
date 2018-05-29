@@ -105,6 +105,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [XML](https://pub.dartlang.org/packages/xml) - A lightweight library for parsing, traversing, querying and building XML documents.
 * [xmlstream](https://pub.dartlang.org/packages/xml) - A streaming event-based XML Parser.
 * [YAML](https://pub.dartlang.org/packages/yaml) - A parser for YAML.
+* [Dart Tags](pub.dartlang.org/packages/dart_tags) - The library for parsing ID3 tags, written in pure Dart.
+
 
 ## Validation
 
