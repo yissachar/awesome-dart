@@ -136,7 +136,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [dart2js](https://www.dartlang.org/tools/dart2js/) - compiles Dart code to JavaScript
 * [js2dart](https://github.com/vojtajina/js2dart) - compiles Javascript code to Dart
 * [Stagehand](https://github.com/google/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
-* [Crossdart](http://crossdart.info) - Cross-referenced source code of the packages from Pub.
+* [Crossdart](https://crossdart.info) - Cross-referenced source code of the packages from Pub.
 * [Crossdart Github Chrome Extension](https://chrome.google.com/webstore/detail/crossdart-chrome-extensio/jmdjoliiaibifkklhipgmnciiealomhd) - Adds "Go to declaration" and "Find Usages" functionality to your Dart projects on Github (both in tree views and pull requests).
 * [gulp-dart](https://github.com/agudulin/gulp-dart) - A gulp plugin for compiling Dart code to JavaScript using dart2js.
 * [dev_compiler](https://github.com/dart-lang/dev_compiler) - Dart to JavaScript compiler designed to create idiomatic, readable JavaScript output.
@@ -153,7 +153,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Dartlang SubReddit](https://www.reddit.com/r/dartlang/)
 * [Gitter Chat Channel](https://gitter.im/dart-lang/home)
 * [Google Group](https://groups.google.com/a/dartlang.org/d/forum/misc)
-* [Stack Overflow](http://stackoverflow.com/tags/dart)
+* [Stack Overflow](https://stackoverflow.com/tags/dart)
 * [Facebook Group (pt-BR)](https://www.facebook.com/groups/dartlangbr)
 
 ## IDEs, Editors, and Plugins
@@ -173,4 +173,4 @@ There are lots of awesome libraries being added to [Pub](https://pub.dartlang.or
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
