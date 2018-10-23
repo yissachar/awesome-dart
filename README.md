@@ -116,6 +116,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## ORM
 
 * [Objectory](https://github.com/vadimtsushko/objectory) - Objectory provides typed, checked environment to model, save and query data persisted on MongoDb.
+* [Jaguar-ORM](https://github.com/Jaguar-dart/jaguar_orm) - Jaguar-ORM provides model persistence to SQL database types. Also supports Sqflite in Flutter.
 
 ## Image
 
