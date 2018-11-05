@@ -121,10 +121,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [image](https://github.com/brendan-duncan/image) - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, WebP, TIFF, TGA, PSD, PVR, and OpenEXR.
 
-## Algorithms
-
-* [cassowary](https://github.com/domokit/cassowary) - Implements a subset of the functionality described in the Cassowary paper.  Accepts constraints and updates member variables in an attempt to satisfy the same.
-
 ## Testing
 
 * [Guinness](https://github.com/vsavkin/guinness) - A port of the Jasmine library.
@@ -165,7 +161,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Vim Plugin](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim
 * [Atom Plugin](https://atom.io/packages/atom-dart) - Dart support for Atom.
 * [DartPad](https://dartpad.dartlang.org/) - Online lightweight editor.
-* [Dart Code](https://marketplace.visualstudio.com/items?itemName=DanTup.dart-code) - Dart support for Visual Studio Code.
+* [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart support for Visual Studio Code.
 * [Module Linker](http://fiatjaf.alhur.es/module-linker/#/dart) - Chrome Extension that adds direct links to module import statements on GitHub.
 
 ## Everything Else
