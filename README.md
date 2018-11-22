@@ -153,6 +153,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Google Group](https://groups.google.com/a/dartlang.org/d/forum/misc)
 * [Stack Overflow](https://stackoverflow.com/tags/dart)
 * [Facebook Group (pt-BR)](https://www.facebook.com/groups/dartlangbr)
+* [Telegram chat (ru-RU)](https://t.me/rudart)
+
 
 ## IDEs, Editors, and Plugins
 
