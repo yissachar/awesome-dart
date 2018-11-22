@@ -96,6 +96,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Dependency Injection
 
 * [DI](https://github.com/angular/di.dart) - Dependency Injection framework by Angular
+* [Dependencies](https://github.com/marcguilera/dependencies.dart) - A simple and modular dependency injection system which doesn't use mirrors.
 
 ## Parsers
 
