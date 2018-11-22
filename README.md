@@ -92,6 +92,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Frappe](https://pub.dartlang.org/packages/frappe) - A functional reactive programming library for Dart. Frappé extends the functionality of Dart's streams, and introduces new concepts like properties/signals.
 * [Quiver](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
 * [route_hierarchical](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps.
+* [Disposables](https://github.com/marcguilera/disposables.dart) - Simple library to manage objects needing to release its own resources.
 
 ## Dependency Injection
 
