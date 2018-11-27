@@ -169,6 +169,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Everything Else
 
+* [Zaart](https://pub.dartlang.org/packages/zaart) - A dead simple static site generator.
+
 There are lots of awesome libraries being added to [Pub](https://pub.dartlang.org/) all the time. If you can't find a library on this list that meets your needs, go ahead and search for it on Pub. And if you end up finding an awesome library, we would love a pull request with the info so that everyone else can discover it as well. Just make sure to read the [contributing guidlines](https://github.com/yissachar/awesome-dart/blob/master/CONTRIBUTING.md) first.
 
 ## License
