@@ -54,6 +54,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Vane](https://github.com/Scorpiion/Vane) - Framework with built-in server runtime environment and middleware system
 * [Rikulo Stream](https://github.com/rikulo/stream) - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources
 
+## Cross-platform development
+* [universal_io](https://github.com/terrier989/universal_io) - _dart:io_ that also works in the browser.
+* [universal_html](https://github.com/terrier989/universal_html) - _dart:html_ that also works in the VM/Flutter.
+
 ## Game Development
 
 * [Flame](https://github.com/luanpotter/flame#readme) - A minimalist Flutter game engine
