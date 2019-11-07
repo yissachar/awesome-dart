@@ -155,6 +155,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Stack Overflow](https://stackoverflow.com/tags/dart)
 * [Facebook Group (pt-BR)](https://www.facebook.com/groups/dartlangbr)
 * [Telegram chat (ru-RU)](https://t.me/rudart)
+* [Telegram chat (id-ID)](https://t.me/dart_web)
 
 
 ## IDEs, Editors, and Plugins
