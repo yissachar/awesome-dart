@@ -29,6 +29,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Tools](#tools)
 * [IDEs, Editors, and Plugins](#ides-editors-and-plugins)
 * [Tutorials](#tutorials)
+* [Cheat-Sheets](#cheat-sheets)
 * [Community](#community)
 * [Everything Else](#everything-else)
 
@@ -153,6 +154,11 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Tour of Heroes](https://webdev.dartlang.org/angular/tutorial) - An app which covers the core fundamentals of AngularDart. 
 * [Dart for beginner](https://www.myfreax.com/tag/dart/) - Dart Chinese tutorial for beginner.
 * [Resolving Dart package version conflicts, faster than ever](https://iiro.dev/2018/08/28/resolving-dart-package-version-conflicts/) - How to use any package version in pub to resolve package version conflicts.
+
+## Cheat-Sheets
+
+* [Cheat-Sheet & Quick Reference](https://koenig-media.raywenderlich.com/uploads/2019/08/RW-Dart-Cheatsheet-1.0.2.pdf) - An awesome cheat-sheet developed by @raywenderlich covering the most important topics with beautiful examples.
+* [Devsonket](https://devsonket.com/dart/) - Printable cheatsheet. A part of the open source project @devsonket contributed by @shunjid written in Bengali language. Helpful for developers from Bengali community.
 
 ## Community
 
