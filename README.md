@@ -157,8 +157,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Cheat-Sheets
 
-* [Cheat-Sheet & Quick Reference](https://koenig-media.raywenderlich.com/uploads/2019/08/RW-Dart-Cheatsheet-1.0.2.pdf) - An awesome cheat-sheet developed by @raywenderlich covering the most important topics with beautiful examples.
-* [Devsonket](https://devsonket.com/dart/) - Printable cheatsheet. A part of the open source project @devsonket contributed by @shunjid written in Bengali language. Helpful for developers from Bengali community.
+* [Cheat-Sheet & Quick Reference](https://koenig-media.raywenderlich.com/uploads/2019/08/RW-Dart-Cheatsheet-1.0.2.pdf) - An awesome cheat-sheet developed by **[raywenderlich](https://github.com/raywenderlich)** covering the most important topics with beautiful examples.
+* [Devsonket](https://devsonket.com/dart/) - Printable cheatsheet. A part of the open source project **[devsonket](https://github.com/devsonket)** contributed by **[shunjid](https://github.com/shunjid)** written in Bengali language. Helpful for developers from Bengali community.
 
 ## Community
 
