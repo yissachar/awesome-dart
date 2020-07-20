@@ -98,6 +98,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Angular DI](https://webdev.dartlang.org/angular/guide/dependency-injection) - Dependency Injection framework by Angular.
 * [Dependencies](https://github.com/marcguilera/dependencies.dart) - A simple and modular dependency injection system which doesn't use mirrors.
 * [package: inject](https://github.com/google/inject.dart) - Compile-time dependency injection for Dart and Flutter
+* [dart_inject](https://github.com/meandmymac-de/dart_inject) - A very simple and easy to use dependency injection framework for Dart.Also supports flutter.
 
 ## Parsers
 
