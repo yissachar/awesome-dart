@@ -69,7 +69,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Template
 
-* [mustache4dart](https://github.com/valotas/mustache4dart) - A simple implementation of Mustache.
+* [mustache_template](https://pub.dev/packages/mustache_template) - A mustache template library that supports dart2js and dart2native.
 * [jaded](https://github.com/dartist/jaded) - Port of the excellent Jade view engine.
 
 ## Database
