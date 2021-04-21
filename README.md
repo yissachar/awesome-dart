@@ -53,6 +53,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
     * There are many packages written for Shelf. By convention they start with [shelf_](https://pub.dartlang.org/search?q=shelf_).
 * [Vane](https://github.com/Scorpiion/Vane) - Framework with built-in server runtime environment and middleware system.
 * [Rikulo Stream](https://github.com/rikulo/stream) - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources.
+* [Alfred](https://github.com/rknell/alfred) - Minimal ExpressJS-inspired server with routing and middlware.
 
 ## Game Development
 
