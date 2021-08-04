@@ -137,7 +137,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Tools
 
-* [Observatory](https://www.dartlang.org/tools/observatory/) - Observatory is a tool for profiling and debugging your Dart applications.
+* [DevTools](https://dart.dev/tools/dart-devtools) - a suite of debugging and performance tools for Dart and Flutter.
 * [dart2js](https://www.dartlang.org/tools/dart2js/) - compiles Dart code to JavaScript.
 * [js2dart](https://github.com/vojtajina/js2dart) - compiles Javascript code to Dart.
 * [Stagehand](https://github.com/dart-lang/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
