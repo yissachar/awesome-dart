@@ -70,6 +70,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [mustache_template](https://pub.dev/packages/mustache_template) - A mustache template library that supports dart2js and dart2native.
 * [jaded](https://github.com/dartist/jaded) - Port of the excellent Jade view engine.
+* [jinja](https://github.com/ykmnkmi/jinja.dart) - Jinja2 template engine port for Dart.
 
 ## Database
 
@@ -86,7 +87,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Utilities
 
 * [Archive](https://pub.dartlang.org/packages/archive) - A library to encode and decode various archive and compression formats.
-* [built_collection](https://github.com/google/built_collection.dart) - Immutable collections via the builder pattern. 
+* [built_collection](https://github.com/google/built_collection.dart) - Immutable collections via the builder pattern.
 * [built_value](https://github.com/google/built_value.dart) - Immutable value types, enum classes, and serialization.
 * [Frappe](https://pub.dartlang.org/packages/frappe) - A functional reactive programming library for Dart. Frappé extends the functionality of Dart's streams, and introduces new concepts like properties/signals.
 * [Quiver](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
@@ -154,7 +155,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [Hello Dart](http://code.makery.ch/library/hello-dart/) - A playful introduction to Dart.
 * [Getting Started with Dart & React](https://www.leejamesrobinson.com/blog/getting-started-with-dart-and-react/)
-* [Tour of Heroes](https://webdev.dartlang.org/angular/tutorial) - An app which covers the core fundamentals of AngularDart. 
+* [Tour of Heroes](https://webdev.dartlang.org/angular/tutorial) - An app which covers the core fundamentals of AngularDart.
 * [Dart for beginner](https://www.myfreax.com/tag/dart/) - Dart Chinese tutorial for beginner.
 * [Resolving Dart package version conflicts, faster than ever](https://iiro.dev/2018/08/28/resolving-dart-package-version-conflicts/) - How to use any package version in pub to resolve package version conflicts.
 
