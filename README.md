@@ -53,6 +53,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Rikulo Stream](https://github.com/rikulo/stream) - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources.
 * [Alfred](https://github.com/rknell/alfred) - Minimal ExpressJS-inspired server with routing and middlware.
 
+## Cross-platform development
+* [universal_io](https://github.com/terrier989/universal_io) - _dart:io_ that also works in the browser.
+* [universal_html](https://github.com/terrier989/universal_html) - _dart:html_ that also works in the VM/Flutter.
+
 ## Game Development
 
 * [Flame](https://github.com/luanpotter/flame#readme) - A minimalist Flutter game engine.
