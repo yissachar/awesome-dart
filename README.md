@@ -40,8 +40,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Flutter](https://flutter.dev/) - Flutter is a framework to build high-performance,  cross-platform mobile apps, allowing applications to be written for Android, iOS and Web Apps.
 * [MDL/Dart](http://mdl.mikemitterer.at//) - Material Design Lite for Dart is a framework of components for web developers based on Google's Material Design philosophy.
 * [OverReact](https://workiva.github.io/over_react/) - A library for building statically-typed React UI components.
-* [VueDart](https://refi64.com/vuedart) - Create Vue web apps using Dart, a progressive, incrementally-adoptable framework for building Web UIs.
-
 
 ## Server Frameworks
 
