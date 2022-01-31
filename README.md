@@ -40,8 +40,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Flutter](https://flutter.dev/) - Flutter is a framework to build high-performance,  cross-platform mobile apps, allowing applications to be written for Android, iOS and Web Apps.
 * [MDL/Dart](http://mdl.mikemitterer.at//) - Material Design Lite for Dart is a framework of components for web developers based on Google's Material Design philosophy.
 * [OverReact](https://workiva.github.io/over_react/) - A library for building statically-typed React UI components.
-* [VueDart](https://refi64.com/vuedart) - Create Vue web apps using Dart, a progressive, incrementally-adoptable framework for building Web UIs.
-
 
 ## Server Frameworks
 
@@ -52,6 +50,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Vane](https://github.com/Scorpiion/Vane) - Framework with built-in server runtime environment and middleware system.
 * [Rikulo Stream](https://github.com/rikulo/stream) - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources.
 * [Alfred](https://github.com/rknell/alfred) - Minimal ExpressJS-inspired server with routing and middlware.
+
+## Cross-platform development
+* [universal_io](https://github.com/terrier989/universal_io) - _dart:io_ that also works in the browser.
+* [universal_html](https://github.com/terrier989/universal_html) - _dart:html_ that also works in the VM/Flutter.
 
 ## Game Development
 
@@ -91,6 +93,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Frappe](https://pub.dartlang.org/packages/frappe) - A functional reactive programming library for Dart. Frappé extends the functionality of Dart's streams, and introduces new concepts like properties/signals.
 * [Quiver](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
 * [route_hierarchical](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps.
+* [Darq](https://pub.dev/packages/darq) - A port of functional LINQ from the .NET library.
 
 ## Dependency Injection
 
@@ -149,6 +152,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [webdev_proxy](https://github.com/Workiva/webdev_proxy) - A proxy wrapper around [webdev](https://github.com/dart-lang/webdev) which adds support for rerouting 404s to the index, allowing for HTML push-based routing while running locally.
 * [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics) - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for Analyzer.
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Dart code with zero dependencies.
+* [Lakos](https://pub.dev/packages/lakos) - Visualize internal library dependencies in Graphviz and detect dependency cycles.
 
 ## Tutorials
 
