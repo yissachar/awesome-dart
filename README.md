@@ -51,6 +51,9 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Rikulo Stream](https://github.com/rikulo/stream) - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources.
 * [Alfred](https://github.com/rknell/alfred) - Minimal ExpressJS-inspired server with routing and middlware.
 
+## Other Frameworks
+* [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) - A framework for describing and verifying hardware.
+
 ## Cross-platform development
 * [universal_io](https://github.com/terrier989/universal_io) - _dart:io_ that also works in the browser.
 * [universal_html](https://github.com/terrier989/universal_html) - _dart:html_ that also works in the VM/Flutter.
@@ -184,9 +187,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [DartPad](https://dartpad.dartlang.org/) - Online lightweight editor.
 * [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart support for Visual Studio Code.
 * [Module Linker](http://fiatjaf.alhur.es/module-linker/#/dart) - Chrome Extension that adds direct links to module import statements on GitHub.
-
-## Hardware Development Frameworks
-* [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) - A framework for describing and verifying hardware.
 
 ## Everything Else
 
