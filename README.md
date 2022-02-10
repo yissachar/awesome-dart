@@ -87,6 +87,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Package Managers
 
 * [Pub](https://pub.dartlang.org/) - Pub is used to manage packages.
+* [Cloudsmith](https://cloudsmith.io/l/dart-repository/) - A fully managed package management SaaS, with support for Dart, Flutter, and much more. **[Free for Public/OSS]** **[$]**
 
 ## Utilities
 
