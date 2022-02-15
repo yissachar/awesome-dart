@@ -81,7 +81,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Postgres](https://github.com/stablekernel/postgresql-dart) - A PostgreSQL database driver that uses the extended, binary protocol for more efficient and secure queries.
 * [SQLJockey](https://github.com/jamesots/sqljocky) - MySQL connector.
 * [PostgreSQL](https://github.com/xxgreg/dart_postgresql) - PostgreSQL database driver.
-* [dartabase_model](https://pub.dartlang.org/packages/dartabase_model) - Serverside Database Object Models for simple data manipulation using MySQL/PGSQL without having to write SQL.
 
 ## Package Managers
 
