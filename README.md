@@ -83,6 +83,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [PostgreSQL](https://github.com/xxgreg/dart_postgresql) - PostgreSQL database driver.
 * [dartabase_model](https://pub.dartlang.org/packages/dartabase_model) - Serverside Database Object Models for simple data manipulation using MySQL/PGSQL without having to write SQL.
 * [dartabase_migration](https://pub.dartlang.org/packages/dartabase_migration) - Serverside Database migration for simple version controlled database structure manipulation using MySQL/PGSQL without having to write SQL.
+* [mysql_client](https://pub.dev/packages/mysql_client) - Native MySQL client written in Dart for Dart. Supports MySQL 5 and 8 versions
 
 ## Package Managers
 
