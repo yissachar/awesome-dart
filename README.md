@@ -156,6 +156,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Dart code with zero dependencies.
 * [Lakos](https://pub.dev/packages/lakos) - Visualize internal library dependencies in Graphviz and detect dependency cycles.
 
+## Multithreading
+
+* [isolator](https://pub.dev/packages/isolator) - Isolator offer to you a simple way for creating two-component states with isolated part and frontend part of any kind - BLoC, MobX, ChangeNotifier and others
+
 ## Tutorials
 
 * [Hello Dart](http://code.makery.ch/library/hello-dart/) - A playful introduction to Dart.
