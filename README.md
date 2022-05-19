@@ -159,6 +159,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Multithreading
 
 * [isolator](https://pub.dev/packages/isolator) - Isolator offer to you a simple way for creating two-component states with isolated part and frontend part of any kind - BLoC, MobX, ChangeNotifier and others
+* [theater](https://pub.dev/packages/theater) - Theater is Actor framework for Dart. This package makes it easier to work with isolates, create clusters of isolates.
 
 ## Tutorials
 
