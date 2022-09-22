@@ -81,6 +81,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Postgres](https://github.com/stablekernel/postgresql-dart) - A PostgreSQL database driver that uses the extended, binary protocol for more efficient and secure queries.
 * [SQLJockey](https://github.com/jamesots/sqljocky) - MySQL connector.
 * [PostgreSQL](https://github.com/xxgreg/dart_postgresql) - PostgreSQL database driver.
+* [MongoDB](https://pub.dev/packages/mongo_dart) - MongoDB database driver.
+
 
 ## Package Managers
 
