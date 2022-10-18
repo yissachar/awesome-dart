@@ -36,7 +36,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Client Web App Frameworks
 
-* [AngularDart](https://angulardart.org/) - AngularDart is a development platform for building mobile and desktop web applications.
+* [AngularDart Community](https://github.com/angulardart-community) - Community-maintained AngularDart websites, packages, tools, and more!
 * [Flutter](https://flutter.dev/) - Flutter is a framework to build high-performance,  cross-platform mobile apps, allowing applications to be written for Android, iOS and Web Apps.
 * [MDL/Dart](http://mdl.mikemitterer.at//) - Material Design Lite for Dart is a framework of components for web developers based on Google's Material Design philosophy.
 * [OverReact](https://workiva.github.io/over_react/) - A library for building statically-typed React UI components.
@@ -50,6 +50,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Vane](https://github.com/Scorpiion/Vane) - Framework with built-in server runtime environment and middleware system.
 * [Rikulo Stream](https://github.com/rikulo/stream) - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources.
 * [Alfred](https://github.com/rknell/alfred) - Minimal ExpressJS-inspired server with routing and middlware.
+* [Dart Frog](https://github.com/VeryGoodOpenSource/dart_frog) -  A fast, minimalistic backend framework for Dart.
 
 ## Other Frameworks
 * [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) - A framework for describing and verifying hardware.
@@ -75,6 +76,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [mustache_template](https://pub.dev/packages/mustache_template) - A mustache template library that supports dart2js and dart2native.
 * [jaded](https://github.com/dartist/jaded) - Port of the excellent Jade view engine.
+* [mason](https://github.com/felangel/mason) - Tools which allow developers to create and consume reusable templates called bricks.
 
 ## Database
 
@@ -96,6 +98,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Quiver](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
 * [route_hierarchical](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps.
 * [Darq](https://pub.dev/packages/darq) - A port of functional LINQ from the .NET library.
+* [Basics](https://github.com/google/dart-basics) -  A Dart library containing convenient extension methods on basic Dart objects.
 
 ## Dependency Injection
 
@@ -178,7 +181,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Telegram chat (ru-RU)](https://t.me/rudart)
 * [Telegram chat (id-ID)](https://t.me/dart_web)
 
-
 ## IDEs, Editors, and Plugins
 
 * [IntelliJ Plugin](https://www.dartlang.org/tools/webstorm/) - Dart plugin from JetBrains for WebStorm, IntelliJ IDEA, PhpStorm, PyCharm, and RubyMine.
@@ -190,6 +192,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [DartPad](https://dartpad.dartlang.org/) - Online lightweight editor.
 * [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart support for Visual Studio Code.
 * [Module Linker](http://fiatjaf.alhur.es/module-linker/#/dart) - Chrome Extension that adds direct links to module import statements on GitHub.
+* [Dart Barrel File Generator](https://github.com/mikededo/dartBarrelFileGenerator) - VSCode extension that generates barrel files for Dart projects.
 
 ## Everything Else
 
