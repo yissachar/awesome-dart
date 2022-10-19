@@ -155,6 +155,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics) - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for Analyzer.
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Dart code with zero dependencies.
 * [Lakos](https://pub.dev/packages/lakos) - Visualize internal library dependencies in Graphviz and detect dependency cycles.
+* [mitt](https://github.com/anyone-developer/anyone-dart-mitt) - Dart event emitter/pubsub. inspired by npm [mitt](https://www.npmjs.com/package/mitt#mitt).
 
 ## Multithreading
 
