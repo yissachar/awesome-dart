@@ -134,6 +134,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [Guinness](https://github.com/vsavkin/guinness) - A port of the Jasmine library.
 * [test](https://pub.dartlang.org/packages/test) - Provides a standard way of writing and running tests in Dart.
+* [spec](https://pub.dev/packages/spec) - A streamlined testing framework for Dart & Flutter.
 
 ## Unions
 
