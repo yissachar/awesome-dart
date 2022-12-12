@@ -36,12 +36,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Client Web App Frameworks
 
-* [AngularDart](https://angulardart.org/) - AngularDart is a development platform for building mobile and desktop web applications.
+* [AngularDart Community](https://github.com/angulardart-community) - Community-maintained AngularDart websites, packages, tools, and more!
 * [Flutter](https://flutter.dev/) - Flutter is a framework to build high-performance,  cross-platform mobile apps, allowing applications to be written for Android, iOS and Web Apps.
 * [MDL/Dart](http://mdl.mikemitterer.at//) - Material Design Lite for Dart is a framework of components for web developers based on Google's Material Design philosophy.
 * [OverReact](https://workiva.github.io/over_react/) - A library for building statically-typed React UI components.
-* [VueDart](https://refi64.com/vuedart) - Create Vue web apps using Dart, a progressive, incrementally-adoptable framework for building Web UIs.
-
 
 ## Server Frameworks
 
@@ -57,6 +55,14 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Angel](https://github.com/dukefirehawk/angel) - A polished, production-ready backend framework in Dart for the VM, AOT, and Flutter.
     * There are many packages written for Angel. By convention they start with [angel_](https://pub.dartlang.org/search?q=angel_).
 * [Functions Framework for Dart](https://github.com/GoogleCloudPlatform/functions-framework-dart) - FaaS (Function as a service) framework for writing portable Dart functions 
+* [Dart Frog](https://github.com/VeryGoodOpenSource/dart_frog) -  A fast, minimalistic backend framework for Dart.
+
+## Other Frameworks
+* [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) - A framework for describing and verifying hardware.
+
+## Cross-platform development
+* [universal_io](https://github.com/terrier989/universal_io) - _dart:io_ that also works in the browser.
+* [universal_html](https://github.com/terrier989/universal_html) - _dart:html_ that also works in the VM/Flutter.
 
 ## Game Development
 
@@ -75,18 +81,18 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [mustache_template](https://pub.dev/packages/mustache_template) - A mustache template library that supports dart2js and dart2native.
 * [jaded](https://github.com/dartist/jaded) - Port of the excellent Jade view engine.
+* [mason](https://github.com/felangel/mason) - Tools which allow developers to create and consume reusable templates called bricks.
 
 ## Database
 
 * [Postgres](https://github.com/stablekernel/postgresql-dart) - A PostgreSQL database driver that uses the extended, binary protocol for more efficient and secure queries.
 * [SQLJockey](https://github.com/jamesots/sqljocky) - MySQL connector.
 * [PostgreSQL](https://github.com/xxgreg/dart_postgresql) - PostgreSQL database driver.
-* [dartabase_model](https://pub.dartlang.org/packages/dartabase_model) - Serverside Database Object Models for simple data manipulation using MySQL/PGSQL without having to write SQL.
-* [dartabase_migration](https://pub.dartlang.org/packages/dartabase_migration) - Serverside Database migration for simple version controlled database structure manipulation using MySQL/PGSQL without having to write SQL.
 
 ## Package Managers
 
 * [Pub](https://pub.dartlang.org/) - Pub is used to manage packages.
+* [Cloudsmith](https://cloudsmith.io/l/dart-repository/) - A fully managed package management SaaS, with support for Dart, Flutter, and much more. **[Free for Public/OSS]** **[$]**
 
 ## Utilities
 
@@ -96,6 +102,8 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Frappe](https://pub.dartlang.org/packages/frappe) - A functional reactive programming library for Dart. Frappé extends the functionality of Dart's streams, and introduces new concepts like properties/signals.
 * [Quiver](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
 * [route_hierarchical](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps.
+* [Darq](https://pub.dev/packages/darq) - A port of functional LINQ from the .NET library.
+* [Basics](https://github.com/google/dart-basics) -  A Dart library containing convenient extension methods on basic Dart objects.
 
 ## Dependency Injection
 
@@ -131,6 +139,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [Guinness](https://github.com/vsavkin/guinness) - A port of the Jasmine library.
 * [test](https://pub.dartlang.org/packages/test) - Provides a standard way of writing and running tests in Dart.
+* [spec](https://pub.dev/packages/spec) - A streamlined testing framework for Dart & Flutter.
 
 ## Unions
 
@@ -154,6 +163,11 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [webdev_proxy](https://github.com/Workiva/webdev_proxy) - A proxy wrapper around [webdev](https://github.com/dart-lang/webdev) which adds support for rerouting 404s to the index, allowing for HTML push-based routing while running locally.
 * [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics) - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for Analyzer.
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Dart code with zero dependencies.
+* [Lakos](https://pub.dev/packages/lakos) - Visualize internal library dependencies in Graphviz and detect dependency cycles.
+
+## Multithreading
+
+* [isolator](https://pub.dev/packages/isolator) - Isolator offer to you a simple way for creating two-component states with isolated part and frontend part of any kind - BLoC, MobX, ChangeNotifier and others
 
 ## Tutorials
 
@@ -173,7 +187,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Telegram chat (ru-RU)](https://t.me/rudart)
 * [Telegram chat (id-ID)](https://t.me/dart_web)
 
-
 ## IDEs, Editors, and Plugins
 
 * [IntelliJ Plugin](https://www.dartlang.org/tools/webstorm/) - Dart plugin from JetBrains for WebStorm, IntelliJ IDEA, PhpStorm, PyCharm, and RubyMine.
@@ -185,6 +198,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [DartPad](https://dartpad.dartlang.org/) - Online lightweight editor.
 * [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart support for Visual Studio Code.
 * [Module Linker](http://fiatjaf.alhur.es/module-linker/#/dart) - Chrome Extension that adds direct links to module import statements on GitHub.
+* [Dart Barrel File Generator](https://github.com/mikededo/dartBarrelFileGenerator) - VSCode extension that generates barrel files for Dart projects.
 
 ## Everything Else
 
