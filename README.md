@@ -54,9 +54,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Alfred](https://github.com/rknell/alfred) - Minimal ExpressJS-inspired server with routing and middlware.
 * [Conduit](https://github.com/conduit-dart/conduit) - Dart HTTP server framework for building REST APIs. Includes PostgreSQL ORM and OAuth2 provider.
     * There are many packages written for Conduit. By convention they start with [conduit_](https://pub.dartlang.org/search?q=conduit_).
-* [Liquidart](https://github.com/aldrinsartfactory/liquidart) - Liquidart is a Dart HTTP server framework for building REST APIs. Includes PostgreSQL ORM and OAuth2 provider. Revival of the abandoned AQUEDUCT project. 
-* [Dia](https://github.com/unger1984/dia) - A simple dart http server in Koa2 style.
-    * There are many packages written for Dia. By convention they start with [dia_](https://pub.dartlang.org/search?q=dia_).
 * [Angel](https://github.com/dukefirehawk/angel) - A polished, production-ready backend framework in Dart for the VM, AOT, and Flutter.
     * There are many packages written for Angel. By convention they start with [angel_](https://pub.dartlang.org/search?q=angel_).
 * [Functions Framework for Dart](https://github.com/GoogleCloudPlatform/functions-framework-dart) - FaaS (Function as a service) framework for writing portable Dart functions 
