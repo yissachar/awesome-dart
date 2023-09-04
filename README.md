@@ -54,7 +54,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Web Frameworks
 
-* [Jaspr]([https://github.com/Jaguar-dart/jaguar](https://docs.page/schultek/jaspr)) - Jaspr is an modern web framework for building websites in Dart with support for both client-side and server-side rendering.
+* [Jaspr](https://docs.page/schultek/jaspr) - Jaspr is an modern web framework for building websites in Dart with support for both client-side and server-side rendering.
 
 ## Other Frameworks
 * [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) - A framework for describing and verifying hardware.
