@@ -87,6 +87,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Postgres](https://github.com/stablekernel/postgresql-dart) - A PostgreSQL database driver that uses the extended, binary protocol for more efficient and secure queries.
 * [SQLJockey](https://github.com/jamesots/sqljocky) - MySQL connector.
 * [PostgreSQL](https://github.com/xxgreg/dart_postgresql) - PostgreSQL database driver.
+* [Couchbase Lite](https://cbl-dart.dev/) - Couchbase Lite for Dart is a platform implementation of Couchbase Lite for Dart and Flutter.
 
 ## Package Managers
 
