@@ -26,6 +26,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
   * [Algorithms](#algorithms)
   * [Testing](#testing)
   * [Unions](#unions)
+  * [AI](#ai)
 * [Tools](#tools)
 * [IDEs, Editors, and Plugins](#ides-editors-and-plugins)
 * [Tutorials](#tutorials)
@@ -143,6 +144,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Unions
 
 * [Freezed](https://github.com/rrousselGit/freezed) - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
+
+## AI
+
+* [dart_agent_core](https://github.com/memex-lab/dart_agent_core) - A mobile-first, local-first agentic loop library with tool use, state persistence, multi-turn memory, and context compression for Flutter apps. Connects to mainstream LLM providers without a backend.
 
 ## Crash monitoring
 
