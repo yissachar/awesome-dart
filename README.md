@@ -2,6 +2,7 @@ Awesome Dart [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29
 ============
 
 A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) lists.
+- [Dio](https://github.com/cfug/dio) - A powerful HTTP client for Dart/Flutter.
 
 ### Contributing
 
