@@ -103,6 +103,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [route_hierarchical](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps.
 * [Darq](https://pub.dev/packages/darq) - A port of functional LINQ from the .NET library.
 * [Basics](https://github.com/google/dart-basics) -  A Dart library containing convenient extension methods on basic Dart objects.
+* [LLAMA.CPP DART](https://github.com/netdur/llama_cpp_dart) - A llama.cpp dart port library for running local and open source LLM.
 
 ## Dependency Injection
 
