@@ -44,12 +44,17 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Server Frameworks
 
 * [Jaguar](https://github.com/Jaguar-dart/jaguar) - A server framework built for speed, simplicity and extensibility.
+    * There are many packages written for Jaguar. By convention they start with [jaguar_](https://pub.dartlang.org/search?q=jaguar_).
 * [Start](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
 * [Shelf](https://pub.dartlang.org/packages/shelf) - Shelf makes it easy to create and compose web servers and parts of web servers.
     * There are many packages written for Shelf. By convention they start with [shelf_](https://pub.dartlang.org/search?q=shelf_).
-* [Vane](https://github.com/Scorpiion/Vane) - Framework with built-in server runtime environment and middleware system.
 * [Rikulo Stream](https://github.com/rikulo/stream) - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources.
 * [Alfred](https://github.com/rknell/alfred) - Minimal ExpressJS-inspired server with routing and middlware.
+* [Conduit](https://github.com/conduit-dart/conduit) - Dart HTTP server framework for building REST APIs. Includes PostgreSQL ORM and OAuth2 provider.
+    * There are many packages written for Conduit. By convention they start with [conduit_](https://pub.dartlang.org/search?q=conduit_).
+* [Angel](https://github.com/dukefirehawk/angel) - A polished, production-ready backend framework in Dart for the VM, AOT, and Flutter.
+    * There are many packages written for Angel. By convention they start with [angel_](https://pub.dartlang.org/search?q=angel_).
+* [Functions Framework for Dart](https://github.com/GoogleCloudPlatform/functions-framework-dart) - FaaS (Function as a service) framework for writing portable Dart functions 
 * [Dart Frog](https://github.com/VeryGoodOpenSource/dart_frog) -  A fast, minimalistic backend framework for Dart.
 
 ## Web Frameworks
