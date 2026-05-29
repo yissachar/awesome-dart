@@ -199,6 +199,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart support for Visual Studio Code.
 * [Module Linker](http://fiatjaf.alhur.es/module-linker/#/dart) - Chrome Extension that adds direct links to module import statements on GitHub.
 * [Dart Barrel File Generator](https://github.com/mikededo/dartBarrelFileGenerator) - VSCode extension that generates barrel files for Dart projects.
+* [Dependi]([https://dependi.io/](https://marketplace.visualstudio.com/items?itemName=fill-labs.dependi)) – VSCode extension for Dependency Management Tool supports Dart, Rust, Go, JavaScript, TypeScript, Python, PHP.  
 
 ## Everything Else
 
