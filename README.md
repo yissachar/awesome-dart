@@ -26,6 +26,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
   * [Algorithms](#algorithms)
   * [Testing](#testing)
   * [Unions](#unions)
+  * [Blockchain](#blockchain)
 * [Tools](#tools)
 * [IDEs, Editors, and Plugins](#ides-editors-and-plugins)
 * [Tutorials](#tutorials)
@@ -143,6 +144,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Unions
 
 * [Freezed](https://github.com/rrousselGit/freezed) - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
+
+## Blockchain
+
+* [Polkadart](https://github.com/leonardocustodio/polkadart) - Sign transactions, decode data, connect and interact with any Polkadot-based blockchain.
 
 ## Crash monitoring
 
