@@ -55,6 +55,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Web Frameworks
 
 * [Jaspr](https://docs.page/schultek/jaspr) - Jaspr is an modern web framework for building websites in Dart with support for both client-side and server-side rendering.
+* [spikard](https://github.com/Goldziher/spikard) - Rust-powered polyglot HTTP framework with type-safe routing, tower middleware, and OpenAPI/GraphQL/JSON-RPC codegen (Dart binding over a Rust core).
 
 ## Other Frameworks
 * [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) - A framework for describing and verifying hardware.
