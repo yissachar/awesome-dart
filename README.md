@@ -115,6 +115,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [html](https://pub.dartlang.org/packages/html) - A library for working with HTML documents. Previously known as html5lib.
 * [markdown](https://github.com/dart-lang/markdown) - Parse markdown into HTML on both the client and server.
 * [PetitParser](https://github.com/petitparser/dart-petitparser) - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
+* [tree-sitter-language-pack](https://github.com/xberg-io/tree-sitter-language-pack) - Pre-built tree-sitter grammars for 300+ languages with a unified parser API (Dart binding over a Rust core).
 * [XML](https://pub.dartlang.org/packages/xml) - A lightweight library for parsing, traversing, querying and building XML documents.
 * [xmlstream](https://pub.dartlang.org/packages/xml) - A streaming event-based XML Parser.
 * [YAML](https://pub.dartlang.org/packages/yaml) - A parser for YAML.
