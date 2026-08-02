@@ -164,6 +164,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Dart code with zero dependencies.
 * [Lakos](https://pub.dev/packages/lakos) - Visualize internal library dependencies in Graphviz and detect dependency cycles.
 * [FlutterTrends](https://fluttertrends.dev/) - Daily download trends, rankings, and repository health for 20k+ Flutter packages on pub.dev.
+* [pubguardian](https://pub.dev/packages/pubguardian) - A supply-chain security scanner for Dart & Flutter projects: detects CVEs, license-compliance issues, and abandoned packages in `pubspec.lock`, with text, JSON, SARIF, and CycloneDX SBOM output.
 
 ## Multithreading
 
