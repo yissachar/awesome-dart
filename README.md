@@ -176,6 +176,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Tour of Heroes](https://webdev.dartlang.org/angular/tutorial) - An app which covers the core fundamentals of AngularDart. 
 * [Dart for beginner](https://www.myfreax.com/tag/dart/) - Dart Chinese tutorial for beginner.
 * [Resolving Dart package version conflicts, faster than ever](https://iiro.dev/2018/08/28/resolving-dart-package-version-conflicts/) - How to use any package version in pub to resolve package version conflicts.
+* [dart-learning](https://github.com/Daniyal674/dart-learning) is a step-by-step, self-paced curriculum designed for beginners transitioning into Dart and Flutter. It features structured modules covering basic I/O, control flow, functions, and null safety, accompanied by interactive `exercise.dart` files and a dedicated solutions folder.
 
 ## Community
 
