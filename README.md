@@ -119,6 +119,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [xmlstream](https://pub.dartlang.org/packages/xml) - A streaming event-based XML Parser.
 * [YAML](https://pub.dartlang.org/packages/yaml) - A parser for YAML.
 * [Dart Tags](https://pub.dartlang.org/packages/dart_tags) - The library for parsing ID3 tags, written in pure Dart.
+* [excel_plus](https://pub.dev/packages/excel_plus) - Streaming reader and writer for Excel .xlsx spreadsheets, with legacy .xls parsing.
 
 
 ## Validation
