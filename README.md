@@ -12,6 +12,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * Libraries
   * [Client Web App Frameworks](#client-web-app-frameworks)
   * [Server Frameworks](#server-frameworks)
+  * [AI](#ai)
   * [Game Development](#game-development)
   * [Animation](#animation)
   * [Template](#template)
@@ -62,6 +63,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Cross-platform development
 * [universal_io](https://github.com/terrier989/universal_io) - _dart:io_ that also works in the browser.
 * [universal_html](https://github.com/terrier989/universal_html) - _dart:html_ that also works in the VM/Flutter.
+
+## AI
+
+* [Genkit Dart](https://genkit.dev/docs/dart/overview/) - Framework created by Google for building AI-powered and agentic applications in Dart.
 
 ## Game Development
 
