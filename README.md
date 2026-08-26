@@ -12,7 +12,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * Libraries
   * [Client Web App Frameworks](#client-web-app-frameworks)
   * [Server Frameworks](#server-frameworks)
-  * [AI](#artificial-intelligence)
+  * [AI](#ai)
   * [Game Development](#game-development)
   * [Animation](#animation)
   * [Template](#template)
