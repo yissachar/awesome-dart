@@ -123,6 +123,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Validation
 
+* [commons_validator](https://pub.dev/packages/commons_validator) - A port of the Apache Commons Validator routines, covering email, URL, domain, IP, IBAN, ISBN, ISIN, credit card, check digits, numbers and dates.
 * [Constrain](https://pub.dartlang.org/packages/constrain) - Provides a constraint based Validation library inspired by Java Bean Validation but leveraging the superior language capabilities of Dart.
 * [validator.dart](https://github.com/karan/validator.dart) - String validation and sanitization for Dart.
 
