@@ -103,6 +103,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [route_hierarchical](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps.
 * [Darq](https://pub.dev/packages/darq) - A port of functional LINQ from the .NET library.
 * [Basics](https://github.com/google/dart-basics) -  A Dart library containing convenient extension methods on basic Dart objects.
+* [kmep](https://github.com/dipodev20/kmep) - A YouTube extraction library running fully in-process: multi-client InnerTube fallback, on-device player.js execution and BotGuard PO token generation, with search, shorts, channels, playlists and comments behind a typed facade. No JVM, no Python, no server.
 
 ## Dependency Injection
 
