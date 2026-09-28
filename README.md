@@ -57,6 +57,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Jaspr](https://docs.page/schultek/jaspr) - Jaspr is an modern web framework for building websites in Dart with support for both client-side and server-side rendering.
 
 ## Other Frameworks
+* [NobodyWho](https://github.com/nobodywho-ooo/nobodywho) - On-device LLM inference for Dart & Flutter: run local models fully offline with embeddings, RAG, tool calling and speech-to-text. No server or API keys.
 * [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) - A framework for describing and verifying hardware.
 
 ## Cross-platform development
