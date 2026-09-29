@@ -26,6 +26,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
   * [Algorithms](#algorithms)
   * [Testing](#testing)
   * [Unions](#unions)
+  * [API Clients](#api-clients)
 * [Tools](#tools)
 * [IDEs, Editors, and Plugins](#ides-editors-and-plugins)
 * [Tutorials](#tutorials)
@@ -143,6 +144,12 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Unions
 
 * [Freezed](https://github.com/rrousselGit/freezed) - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
+
+## API Clients
+
+* [brevo_api](https://github.com/Fullphysio/brevo_api) - Brevo (formerly Sendinblue) client for transactional email, SMS, contacts and CRM.
+* [mux_api](https://github.com/Fullphysio/mux_api) - Mux video client with signed playback tokens and webhook verification.
+* [sanity_api](https://github.com/Fullphysio/sanity_api) - Sanity Content Lake client for GROQ queries, mutations and asset uploads.
 
 ## Crash monitoring
 
