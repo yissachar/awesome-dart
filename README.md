@@ -164,6 +164,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Dart code with zero dependencies.
 * [Lakos](https://pub.dev/packages/lakos) - Visualize internal library dependencies in Graphviz and detect dependency cycles.
 * [FlutterTrends](https://fluttertrends.dev/) - Daily download trends, rankings, and repository health for 20k+ Flutter packages on pub.dev.
+* [Code Buster](https://github.com/tool-bunker/code-buster) - Offline repository architecture and multi-language static analysis.
 
 ## Multithreading
 
