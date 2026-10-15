@@ -103,6 +103,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [route_hierarchical](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps.
 * [Darq](https://pub.dev/packages/darq) - A port of functional LINQ from the .NET library.
 * [Basics](https://github.com/google/dart-basics) -  A Dart library containing convenient extension methods on basic Dart objects.
+* [matter_dcl](https://github.com/firedanceio/matter_dcl) - Looks up Matter smart home devices by vendor and product ID in the official CSA registry, with caching and lookups that never throw.
 
 ## Dependency Injection
 
