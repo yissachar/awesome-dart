@@ -125,6 +125,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [Constrain](https://pub.dartlang.org/packages/constrain) - Provides a constraint based Validation library inspired by Java Bean Validation but leveraging the superior language capabilities of Dart.
 * [validator.dart](https://github.com/karan/validator.dart) - String validation and sanitization for Dart.
+* [pakdatakit](https://pub.dev/packages/pakdatakit) - Validates and formats Pakistani CNICs, phone numbers, IBANs and NTNs, and generates Raast payment QR codes.
 
 ## ORM
 
