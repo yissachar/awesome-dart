@@ -26,6 +26,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
   * [Algorithms](#algorithms)
   * [Testing](#testing)
   * [Unions](#unions)
+  * [AI](#ai)
 * [Tools](#tools)
 * [IDEs, Editors, and Plugins](#ides-editors-and-plugins)
 * [Tutorials](#tutorials)
@@ -143,6 +144,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Unions
 
 * [Freezed](https://github.com/rrousselGit/freezed) - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
+
+## AI
+
+* [groq](https://pub.dev/packages/groq) - Client for the Groq API with chat sessions, multiple models and typed errors; listed in Groq's official docs.
 
 ## Crash monitoring
 
