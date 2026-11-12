@@ -57,6 +57,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Jaspr](https://docs.page/schultek/jaspr) - Jaspr is an modern web framework for building websites in Dart with support for both client-side and server-side rendering.
 
 ## Other Frameworks
+* [dart_tui](https://github.com/codenameakshay/dart_tui) - Elm-style terminal UI framework: components, forms, Lip Gloss-style styling.
 * [Rapid Open Hardware Development (ROHD) Framework](https://github.com/intel/rohd) - A framework for describing and verifying hardware.
 
 ## Cross-platform development
