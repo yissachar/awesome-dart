@@ -51,6 +51,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Rikulo Stream](https://github.com/rikulo/stream) - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources.
 * [Alfred](https://github.com/rknell/alfred) - Minimal ExpressJS-inspired server with routing and middlware.
 * [Dart Frog](https://github.com/VeryGoodOpenSource/dart_frog) -  A fast, minimalistic backend framework for Dart.
+* [Daravel](https://daravel.dev) - A Laravel-inspired backend framework with routing, validation, an ORM, authentication, queues, and native AOT compilation.
 
 ## Web Frameworks
 
