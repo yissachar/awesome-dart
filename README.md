@@ -38,7 +38,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [AngularDart Community](https://github.com/angulardart-community) - Community-maintained AngularDart websites, packages, tools, and more!
 * [Flutter](https://flutter.dev/) - Flutter is a framework to build high-performance,  cross-platform mobile apps, allowing applications to be written for Android, iOS and Web Apps.
-* [MDL/Dart](http://mdl.mikemitterer.at//) - Material Design Lite for Dart is a framework of components for web developers based on Google's Material Design philosophy.
 * [OverReact](https://workiva.github.io/over_react/) - A library for building statically-typed React UI components.
 
 ## Server Frameworks
@@ -176,6 +175,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Tour of Heroes](https://webdev.dartlang.org/angular/tutorial) - An app which covers the core fundamentals of AngularDart. 
 * [Dart for beginner](https://www.myfreax.com/tag/dart/) - Dart Chinese tutorial for beginner.
 * [Resolving Dart package version conflicts, faster than ever](https://iiro.dev/2018/08/28/resolving-dart-package-version-conflicts/) - How to use any package version in pub to resolve package version conflicts.
+* [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides.
 
 ## Community
 
@@ -193,7 +193,6 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Sublime Text Package](https://github.com/guillermooo/dart-sublime-bundle) - Sublime Text 3 Dart Package.
 * [Emacs Plugin](https://github.com/nex3/dart-mode) - An Emacs mode for the Dart language.
 * [Vim Plugin](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim.
-* [Atom Plugin](https://atom.io/packages/atom-dart) - Dart support for Atom.
 * [VSCode Plugin](https://dartcode.org/) - Dart support for Visual Studio Code.
 * [DartPad](https://dartpad.dartlang.org/) - Online lightweight editor.
 * [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart support for Visual Studio Code.
